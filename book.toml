@@ -5,12 +5,13 @@ multilingual = false
 src = "src"
 title = "md_book"
 
+[preprocessor.footnote]
 [preprocessor.pagetoc]
 [output.html]
 default-theme = "Rust"
 preferred-dark-theme = "Rust"
-additional-css = ["theme/pagetoc.css"]
-additional-js  = ["theme/pagetoc.js"]
+additional-css = ["theme/pagetoc.css", "theme/whichlang.css", "devicon.css"]
+additional-js  = ["theme/pagetoc.js", "theme/whichlang.js"]
 
 [output.html.fold]
 enable = true    # whether or not to enable section folding
