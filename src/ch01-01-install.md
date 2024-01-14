@@ -8,7 +8,7 @@
 ## 使用 Cargo 安裝
 
 透過 Rust 的 套件管理器 Cargo 來安裝，
-此方法需要在電腦上先安裝好 Rust{{footnote: [Rust 安裝](https://www.rust-lang.org/zh-TW/tools/install)}}。
+此方法需要在電腦上先安裝好 [Rust](https://www.rust-lang.org/zh-TW/tools/install)。
 
 ```bash,icon=.devicon-bash-plain
 cargo install mdbook
