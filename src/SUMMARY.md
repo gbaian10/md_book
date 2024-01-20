@@ -1,6 +1,6 @@
 # mdbook
 
-[簡介](./ch00-mdbook.md)
+[簡介](./ch00.md)
 
 ## 如何使用
 
