@@ -3,7 +3,7 @@ authors = ["gbaian10"]
 language = "zh-Hant-TW"
 multilingual = false
 src = "src"
-title = "md_book"
+title = "mdbook"
 
 [preprocessor.footnote]
 [preprocessor.pagetoc]
