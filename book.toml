@@ -5,6 +5,9 @@ multilingual = false
 src = "src"
 title = "mdbook"
 
+[build]
+create-missing = false
+
 [preprocessor.footnote]
 [preprocessor.pagetoc]
 [output.html]
