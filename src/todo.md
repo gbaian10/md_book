@@ -10,3 +10,4 @@
 ## vscode 插件
 
 1. Prettier
+1. Paste Image
