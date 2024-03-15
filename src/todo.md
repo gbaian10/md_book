@@ -12,3 +12,4 @@
 1. Prettier
 1. Paste Image
 1. markdownlint
+1. Markdown Preview Enhanced
