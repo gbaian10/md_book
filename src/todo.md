@@ -9,6 +9,7 @@
 
 ## vscode 插件
 
+1. Material Icon Theme
 1. Prettier
 1. Paste Image
 1. markdownlint
