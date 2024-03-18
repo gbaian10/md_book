@@ -15,3 +15,4 @@
 1. markdownlint
 1. Markdown Preview Enhanced
 1. Markdown All in One
+1. GitLens
