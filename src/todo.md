@@ -18,3 +18,4 @@
 1. Markdown All in One
 1. GitLens
 1. indent-raindow
+1. Todo Tree
