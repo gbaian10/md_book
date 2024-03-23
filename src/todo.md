@@ -19,4 +19,5 @@
 1. GitLens
 1. indent-raindow
 1. Todo Tree
-1. isort
+
+1. isort black
