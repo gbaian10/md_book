@@ -9,6 +9,7 @@
 
 ## vscode 插件
 
+1. Chinese (Traditional) Language Pack
 1. GitHub Copilot
 1. GitHub Actions
 1. Material Icon Theme
