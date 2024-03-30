@@ -24,6 +24,6 @@
 1. indent-raindow
 1. Todo Tree
 
-1. isort black ruff
+1. isort black ruff mypy
 
 1. Live Server
