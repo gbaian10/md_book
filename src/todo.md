@@ -14,6 +14,7 @@
 1. GitHub Copilot Chat
 1. GitHub Actions
 1. GitLens
+1. Git Graph
 1. Material Icon Theme
 1. Prettier
 1. Even Better TOML
