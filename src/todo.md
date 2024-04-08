@@ -18,6 +18,7 @@
 1. Git Graph
 1. Git History
 1. Material Icon Theme
+1. Material Theme / Material Theme Icon
 1. Prettier
 1. Even Better TOML
 1. Paste Image
