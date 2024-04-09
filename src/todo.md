@@ -27,6 +27,7 @@
 1. Markdown All in One
 1. indent-raindow
 1. Todo Tree
+1. Error Lens
 
 1. isort black ruff mypy
 1. VizTracer VS Code
