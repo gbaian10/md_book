@@ -10,6 +10,7 @@
 ## vscode 插件
 
 1. Chinese (Traditional) Language Pack
+1. Remote
 1. WSL
 1. GitHub Copilot
 1. GitHub Copilot Chat
