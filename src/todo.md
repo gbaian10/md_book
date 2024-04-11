@@ -31,7 +31,9 @@
 1. Error Lens
 
 1. isort black ruff mypy
+1. Jupyter
 1. VizTracer VS Code
+
 1. rust-analyzer
 
 1. Live Server
