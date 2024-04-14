@@ -38,3 +38,4 @@
 
 1. Live Server
 1. Auto Rename Tag
+1. Thunder Client
