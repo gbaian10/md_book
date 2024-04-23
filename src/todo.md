@@ -35,6 +35,7 @@
 1. VizTracer VS Code
 
 1. rust-analyzer
+1. crates
 
 1. Live Server
 1. Auto Rename Tag
