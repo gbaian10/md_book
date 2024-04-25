@@ -12,6 +12,7 @@
 1. Chinese (Traditional) Language Pack
 1. Remote
 1. WSL
+1. Docker
 1. Dev Containers
 1. GitHub Copilot
 1. GitHub Copilot Chat
